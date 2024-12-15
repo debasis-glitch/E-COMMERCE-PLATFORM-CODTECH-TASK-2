@@ -1,4 +1,3 @@
-# MyEShoppingWebsite
 <b>Name</b>: Debasis Tripathy</br>
 <b>Company:</b> CODTECH IT SOLUTIONS</br>
 <b>ID:</b> CT6WDS2316</br>
@@ -12,7 +11,6 @@
 </br>
 <h2>Here are the overview of the Project</h2></br>
 <h3>for admin login use bellow credential</h3>
-
 <h4>Example</h4></br>
 user name: Debasis</br>
 password: admin@123<br/>
