@@ -21,8 +21,7 @@ Password: 123
 <br>
 <h2>Screenshot's</h2> </br>
 
-
-<img src='[https://github.com/samadpls](https://github.com/debasis-glitch/E-COMMERCE-PLATFORM-CODTECH-TASK-2/blob/5be3dad5c69858bba624ec4afe7fcffd6058afa3/Screenshot%202024-12-15%20081328.png)'/>
+![Screenshot 2024-12-15 081328](https://github.com/user-attachments/assets/ce354029-e13d-427e-92c2-fe9eefe4575f)
 
 
 
