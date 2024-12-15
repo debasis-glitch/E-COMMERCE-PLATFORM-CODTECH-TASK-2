@@ -20,8 +20,9 @@ User name: User</br>
 Password: 123
 <br>
 <h2>Screenshot's</h2> </br>
-![Screenshot 2024-12-15 081328](https://github.com/user-attachments/assets/cbd79df6-7592-4d71-8faa-30c5674b05fe)
 
+
+<img src='[https://github.com/samadpls](https://github.com/debasis-glitch/E-COMMERCE-PLATFORM-CODTECH-TASK-2/blob/5be3dad5c69858bba624ec4afe7fcffd6058afa3/Screenshot%202024-12-15%20081328.png)'/>
 
 
 
