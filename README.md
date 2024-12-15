@@ -11,10 +11,10 @@
 </br>
 <h2>Here are the overview of the Project</h2></br>
 <h3>for admin login use bellow credential</h3>
-<h4>Example</h4></br>
-user name: Debasis</br>
-password: admin@123<br/>
+<h4>For Example:</h4></br>
+User name: Debasis</br>
+Password: admin@123<br/>
 <h2>for User login use bellow credential</h2>
-<h4>Example</h4></br>
-user name: User</br>
-password: 123
+<h4>For Example:</h4></br>
+User name: User</br>
+Password: 123
