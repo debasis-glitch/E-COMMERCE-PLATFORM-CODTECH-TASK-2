@@ -20,8 +20,5 @@ User name: User</br>
 Password: 123
 <br>
 <h2>Screenshot's</h2> 
-![Screenshot 2024-12-15 081328](https://github.com/user-attachments/assets/49e99030-f73c-47cd-9b8c-05f1583c052b)
-</br>
-![Screenshot 2024-12-15 081344](https://github.com/user-attachments/assets/91cf3fe8-32c2-43a8-a2de-690d100c510a)
-</br>
+
 
